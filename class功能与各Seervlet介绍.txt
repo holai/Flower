@@ -1,0 +1,17 @@
+userBean.java   用户JavaBean
+Mysqluse.java  数据库连接工具类
+	使用lib: mysql-connector
+admin .java    
+	Post  后台登陆验证
+	put   修改管理员密码
+	delete 删除普通用户
+CooletcServlet.java   
+	post  添加收藏
+	delete 删除收藏
+Comment.java  
+	Post  添加评论与评分(如果以前评分过会覆盖)
+Flower.java
+	Post 添加 花卉 信息
+	delete 删除
+uploadImg 接受图片 保存在本地 并返回 本地地址
+	(使用lib: commone-fileupload   commons-is)

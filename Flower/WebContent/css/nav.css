@@ -1,0 +1,22 @@
+.nav_section{
+		margin-top: 0 !important;
+	}
+	.container{
+		width: 100% !important;
+		max-width: 100% !important;
+		padding: 0 !important;
+	}
+	.nav_section .custom_nav2 .custom_nav-container{
+			border-radius: 0 !important;
+			padding: 0 !important;
+	}
+	.nav-item{
+		padding: 10px 0 !important;
+		
+	}
+	.nav-item.active{
+		border-bottom: 2px solid rgb(255, 208, 75) !important;
+	}
+	.nav-item.active .nav-link{
+		color: rgb(255, 208, 75) !important;
+	}
